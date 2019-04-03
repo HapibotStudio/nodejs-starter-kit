@@ -56,7 +56,7 @@ Starter Kit aimed for authoring data API backends with Node.js and PostgreSQL.
 
 ## Getting Started
 
-Clone the repo and run `docker-compose up`:
+Clone the repo, create an ```.env``` file based on ```.env.example``` file and changing the content to match your specifications and run `docker-compose up`:
 
 ```bash
 git clone https://github.com/HapibotStudio/nodejs-starter-kit.git
